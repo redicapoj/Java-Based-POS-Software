@@ -212,9 +212,9 @@ no barcode,Deordorant Dove,200,1
 7622202011412,7Days Creme Brulee,70,1
 5900951311505,Snickers,70,1
 8690504034438,Albeni,50,1
-5449000000996,Coca-Cola 330ml,100,1
-5449000131805,Coca-Cola zero 330ml,100,1
-5449000042101,Fanta exotic 330ml,100,1
+111,Coca-Cola 330ml,100,1
+112,Coca-Cola zero 330ml,100,1
+113,Fanta exotic 330ml,100,1
 5449000011527,Fanta orange 330ml,100,1
 5449000014535,Sprite 330ml,100,1
 8714800036825,B52,100,1
@@ -231,7 +231,7 @@ no barcode,Deordorant Dove,200,1
 8032268114108,Uje Tepelena 1.5l,60,1
 5304000044114,Uje Lajthiza 1.5l,60,1
 5301000171017,Uje Glina 1.5l,60,1
-8032268214105,Uje Tepelena gaz 1.5l,60,1
+114,Uje Tepelena gaz 1.5l,60,1
 5306000001616,Uje Vlora 0.5l,50,1
 5304000044091,Uje Lajthiza 0.5l,50,1
 5304000044077,Uje Lajthiza 5l,120,1
@@ -252,7 +252,7 @@ no barcode,Deordorant Dove,200,1
 5304000106317,Sun Oil,600,1
 8053830880023,Sofy's spray,600,1
 6291106000016,Huda mbrojtes-dielli,1000,1
-5310079000470,Imperial Vanilla,70,1
+115,Imperial Vanilla,70,1
 5310079000159,Imperial Cokollate,70,1
 5310079000715,Imperial Fruta Pylli,70,1
 5310079004362,Metropoli Paris,200,1
@@ -358,8 +358,8 @@ no barcode,Deordorant Dove,200,1
 5304000145255,Leter tualeti,250,1
 5301000600654,Pipsa,100,1
 5711914145064,Luge plastike,150,1
-5711914144913,Pirunj plastike,1
-5304000201104,Pirunj plastike,1
+5711914144913,Pirunj plastike,150,1
+5304000201104,Pirunj plastike,150,11
 3800226620221,Pjata plastike,150,1
 8052789893320,Pjata plastike,150,1
 3800226620382,Pjata plastike,150,1
