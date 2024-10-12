@@ -11,8 +11,8 @@
 ## Usage
 1. Run the SupermarketBillingSystem.java file to start the POS system.
 2. The main interface allows you to:
-   - Add products manually
-   - Search products by barcode
+   - Add products manually (fill the field with different products as you wish)
+   - Search products by barcode (use the barcodes: 111, 112, 113, 114, 115 to test the functionality of barcode searching)
    - Reset the bill or clear the last entered product
    - Calculate the total bill
 3. To print a bill, click the "Print" button. Bills will be saved in a CSV file named printed-bills.csv.
